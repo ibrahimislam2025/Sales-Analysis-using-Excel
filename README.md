@@ -49,7 +49,9 @@ The dataset contains the following columns:
   - 👶👨‍🦳 Sales by **Customer Generation**  
   - 📊 Overall sales contribution by product category  
 - Built **Pivot Charts 📈** for data visualization.  
-- Added **Slicers 🔘** to enable interactive filtering across reports.  
+- Added **Slicers 🔘** to enable interactive filtering across reports.
+<img width="1627" height="640" alt="image" src="https://github.com/user-attachments/assets/62ec70ea-e216-4b9b-95b5-e656a0579321" />
+
 
 ### 🔎 Data Analysis & Insights
 - Identified **top-performing categories 🏆**.  
