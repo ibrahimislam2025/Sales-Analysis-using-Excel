@@ -75,7 +75,9 @@ The dataset contains the following columns:
   - **Cell Referencing** → relative & absolute  
   - **Conditional Formatting** 🎨 for trends & highlights  
   - **Pivot Tables, Pivot Charts & Slicers** for reporting 📊  
-  - Basic percentage calculations 🔢  
+  - Basic percentage calculations 🔢
+ <img width="478" height="157" alt="image" src="https://github.com/user-attachments/assets/1e21080a-9644-4517-a422-4937320eb243" />
+
 
 ---
 
